@@ -58,4 +58,11 @@
     php artisan serve
     ```
 
-8. **Open the application on your browser
+7. **Run the development server**:
+    ```bash
+    php artisan serve
+    ```
+
+8. **Open the application on your browser**:
+    Navigate to `http://localhost:8000` in your web browser.
+
